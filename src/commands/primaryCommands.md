@@ -3,5 +3,7 @@
 `<input>*` = Required. <br>
 <br>
 
+`/help` - Gives the support server invite link and url to this documenation. <br>
 `/mine` - Opens the HellForge Mining Menu. <br>
-`/help` - Gives the support server invite link and url to this documenation.
+`/inventory` - View your inventory. <br>
+`/craft` - Opens the crafting menu. <br>
