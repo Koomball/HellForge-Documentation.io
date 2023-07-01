@@ -1,8 +1,6 @@
 # Summary
 
-- [mdBook Quickstart](README.md)
-- [Chapter 1](chapter-1.md)
-- [Chapter 2](chapter-2.md)
-- [Foo](foo/README.md)
-    - [Fizz](foo/fizz.md)
-    - [Buzz](foo/buzz.md)
+- [Welcome to HellForge](01_Welcome.md)
+- [Commands](02_Commands.md)
+    - [Primary Commands](commands/primaryCommands.md)
+    - [Economy](commands/economyCommands.md)
