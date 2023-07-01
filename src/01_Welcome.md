@@ -1,3 +1,3 @@
-# Chapter 1
+# Welcome to HellForge
 
 Content goes here.
