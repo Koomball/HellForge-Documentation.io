@@ -1,6 +1,6 @@
 # Economy Commands
 `<input>` = Non Required. <br>
-`<input>*` = Required. <br>
+`{input}` = Required. <br>
 <br>
 
 `/balance` - View your networth breakdown. <br>
