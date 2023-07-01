@@ -1,7 +1,7 @@
 [book]
-authors = ["Michael Currin"]
+authors = ["Roxette Dillon (Lead Developer, Artist, Programmer)"]
 language = "en"
 multilingual = false
 src = "src"
-title = "mdBook Quickstart"
-description = "Demo site for mdBook Quickstart repo"
+title = "HellForge Documentation"
+description = "The Official Documenation for all HellForge commands, stats, items and more!"
