@@ -5,7 +5,7 @@
   - [Primary Commands](commands/primaryCommands.md)
   - [Economy](commands/economyCommands.md)
   - [Market (soon)](commands/marketCommands.md)
-  - [Pet Care (soon](commands/petCareCommands.md)
+  - [Pet Care (soon)](commands/petCareCommands.md)
 - [Items](03_Items.md)
   - [Mined Resources](items/minedResources.md)
     - [The Meadows](items/mined/theMeadows.md)
