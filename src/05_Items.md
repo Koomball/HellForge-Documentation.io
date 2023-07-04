@@ -50,8 +50,8 @@ Total Archtypes: `0` <br>
 - `🔴` `(3) SUBCAT` ***Crafted Potions***
     - `🔴` `>` Minor XP Potion.
     - `🔴` `>` Minor Power Potion.
-    - `🔴` `>` Minor Wealth Potion.
-`Added: 0/5` <br>
+    - `🔴` `>` Minor Wealth Potion. <br>
+  `Added: 0/5` <br>
 
 ### `(19) CAT` ***Mining***
   - `🟢` `(8) SUBCAT` ***The Meadows***
@@ -75,8 +75,8 @@ Total Archtypes: `0` <br>
     - `🔴` Pale Stone.
     - `🔴` Quartz.
     - `🔴` Amethyst.
-    - `🔴` Destrium.
-`Added: 8/19` <br>
+    - `🔴` Destrium. <br>
+  `Added: 8/19` <br>
 
 ### `(10) CAT` ***Farming***
   - `🔴` `(5) SUBCAT` ***Seeds***
@@ -90,18 +90,18 @@ Total Archtypes: `0` <br>
     - `🔴` Corn.
     - `🔴` Demon Root.
     - `🔴` Crying Ivy.
-    - `🔴` Twisted Nettle.
-`Added: 0/10` <br>
+    - `🔴` Twisted Nettle. <br>
+  `Added: 0/10` <br>
 
 ### `(1) CAT` ***Equipment***
   - `🟡` `(1) SUBCAT` ***Pickaxes***
     - `🟢` Basic Pickaxe.
   - `⚫` `(0) SUBCAT` ***Weapons***
-  - `⚫` `(0) SUBCAT` ***Archtypes***
+  - `⚫` `(0) SUBCAT` ***Archtypes*** <br>
 `Added: 1/1` <br>
 
 ### `(0) CAT` ***Augments***
   - `⚫` `(0) SUBCAT` ***Player***
   - `⚫` `(0) SUBCAT` ***Pickaxes***
-  - `⚫` `(0) SUBCAT` ***Weapons***
+  - `⚫` `(0) SUBCAT` ***Weapons*** <br>
 `Added: 0/0` <br>
