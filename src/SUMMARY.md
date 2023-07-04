@@ -3,12 +3,14 @@
 - [Welcome to HellForge](01_Welcome.md)
   - [Changelog](Index%201/changelog.md)
   - [Update Checklist](Index%201/checklist.md)
+
 - [Commands](02_Commands.md)
   - [Primary Commands](Index%202/primaryCommands.md)
   - [Economy](Index%202/economyCommands.md)
   - [Market (soon)](Index%202/marketCommands.md)
   - [Pet Care (soon)](Index%202/petCareCommands.md)
-- [Stats / Equipment](03_stats&equipment.md)
+ 
+- [Stats / Upgrades](03_stats&equipment.md)
   - [Stats](Index%203/Stats.md)
     - [Pickaxe Stats](Index%203/Stats/pickaxe.md)
     - [Weapon Stats](Index%203/Stats/weapon.md)
@@ -38,6 +40,7 @@
       - [Standard Upgrades](Index%203/Upgrades/Mining/standard.md)
       - [Ascension Upgrades](Index%203/Upgrades/Mining/ascension.md)
       - [Special Upgrades](Index%203/Upgrades/Mining/special.md)
+
 - [Farming](04_farming.md)
   - [Crops](Index%204/crops.md)
     - [Normal Crops](Index%204/Crops/normalCrops.md)
@@ -51,6 +54,7 @@
     - [Standard](Index%204/Achievements/standard.md)
     - [Exotic](Index%204/Achievements/exotic.md)
     - [Special / Rotating](Index%204/Achievements/rotating.md)
+
 - [Items](05_Items.md)
   - [Mined Resources](Index%205/minedResources.md)
     - [The Meadows](Index%205/Mined/theMeadows.md)
@@ -62,7 +66,11 @@
     - [Potions](Index%205/Consumables/potions.md)
   - [Pickaxes](Index%205/pickaxes.md)
     - [Standard Pickaxes](Index%205/Pickaxes/standard.md)
-    - [Refined Variants](Index%205/Pickaxes/refined.md)
-    - [Exotic Variants](Index%205/Pickaxes/exotic.md)
-    - [Limited Edition Variants](Index%205/Pickaxes/limited.md)
-
+    - [Exclusive Pickaxes](Index%205/Pickaxes/limited.md)
+  - [Weapons](Index%205/weapons.md)
+    - [Standard Weapons](Index%205/Weapons/standard.md)
+    - [Exclusive Weapons](Index%205/Weapons/limited.md)
+  - [Archtype Bodies](Index%205/archtypeBodies.md)
+    - [Standard Archtype Bodies](Index%205/Archtypes/standard.md)
+    - [Exotic Archtype Bodies](Index%205/Archtypes/exotic.md)
+    - [Exclusive Archtype Bodies](Index%205/Archtypes/limited.md)
