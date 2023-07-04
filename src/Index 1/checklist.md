@@ -5,6 +5,11 @@
 `🟡 = Being Developed` <br>
 `🔴 = Unstarted` <br>
 <br> <br>
+# `🟡` beta/v0.1.0
+- [ ] `1` `🔴` `/farm` <br>
+  - [ ] `1.1` `🔴` `wheat` <br>
+  - [ ] `1.2` `🔴` `corn` <br>
+  - [ ] `1.3` `🔴` `
 # `🟡` alpha/v0.0.5
 - [ ] `1` `🔴` `/swap-pickaxe` <br>
   - [ ] `1.1` `🔴` `Vault 1.` <br>
