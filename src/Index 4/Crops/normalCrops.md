@@ -1,9 +1,11 @@
 # Normal Crops
 • All crops listed here can be obtained from the farming shop 24/7, Crops have a chance to be collected at different rarities as shown in the Rarity Chances section of each crop. <br>
-**Index** <br>
-- [RR 1 | Wheat](#rarity-rank-1-wheat)
+- **Crop Index** <br>
+  - [RR 1 | Wheat](#rr-1-wheat)
+  - [RR 1 | Corn](#rr-1-corn)
 
-## [Rarity Rank: 1] Wheat
+
+## [RR = 1] Wheat
 *The starter plant.* <br>
 **obtained from:** `/shop`
 ### Requirements to Grow:
@@ -21,7 +23,7 @@
 \> (⭐️⭐️) Rare: 4% <br>
 \> (⭐️⭐️⭐️) Legendary: 1% <br>
 
-## Corn
+## [RR = 1] Corn
 *The starter plant.* <br>
 **obtained from:** `/shop`
 ### Requirements to Grow:
