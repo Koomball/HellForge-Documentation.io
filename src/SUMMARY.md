@@ -2,6 +2,7 @@
 
 - [Welcome to HellForge](01_Welcome.md)
   - [Changelog](Index%201/changelog.md)
+  - [Update Checklist](Index%201/checklist.md)
 - [Commands](02_Commands.md)
   - [Primary Commands](Index%202/primaryCommands.md)
   - [Economy](Index%202/economyCommands.md)
