@@ -1,7 +1,7 @@
 # HellForge Changelog
-`Next Version: alpha/v0.0.5` <br>
-`Current Version: alpha/v0.0.4` <br>
-`Last Version: alpha/v0.0.3` <br>
+`Next Version: alpha/v0.1.0` <br>
+`Current Version: alpha/v0.0.7` <br>
+`Last Version: alpha/v0.0.6` <br>
 <br> <br>
 ## `July 2023` | alpha/v0.0.7
 - **(Released: 10 July 2023)**
