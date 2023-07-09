@@ -14,5 +14,8 @@
 
 ## `June 2023` | alpha/v0.0.3
 - **(Released: June 2023)** <br>
-  - Added `/deposit`, `/withdraw` and `/balance` <br>
-  - Added `/shop` <br>
+  - Added `/deposit`
+  - Added `/withdraw` 
+  - Added `/balance`
+  - Added `/shop`
+  - Added Wood
