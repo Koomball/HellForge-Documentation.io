@@ -1,17 +1,7 @@
-# Index
-- [⛏Mining](#Mining)
- - [Ores](#Ores)
- - [Locations](#Locations)
- - [Milestones](#Milestones)
-- [⚡️Skills](#Skills)
-- [🧵Crafting](#Crafting)
- - [Crafting Ranks](#Crafting_Ranks)
- - [Crafting Milestones](#Crafting_Milestones)
-
 # Mining
 
 ## Ores
-### The Meadows
+**The Meadows**
 <details> <summary> Ores </summary>
     
 ```
@@ -32,7 +22,7 @@ Location: The Meadows
 
 </details>
 
-### The Sand Basin
+**The Sand Basin**
 <details> <summary> Ores </summary>
     
 ```
@@ -52,8 +42,6 @@ Location: The Sand Basin
 ```
 
 </details>
-
-## Locations
 
 ## Milestones
 
