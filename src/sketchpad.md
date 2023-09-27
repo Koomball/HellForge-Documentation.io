@@ -52,7 +52,7 @@ Location: The Sand Basin
 
 
 ## Crafting Ranks
-### Crafting Rank 1-3
+**Crafting Rank 1-3** <br
 > **[R1] Beginner Crafting** <br>
 > *these recipes unlock along with `/craft` at level 7.* <br>
 > • **Requirements:** <br>
@@ -70,7 +70,7 @@ Location: The Sand Basin
 > Level: 10+ <br>
 > Crafting Level: 6+ <br>
 
-### Crafting Rank 4-6
+**Crafting Ranks 4-6** <br>
 > **[R4] Intermediate Crafting** <br>
 > *text* <br>
 > • **Requirements:** <br>
