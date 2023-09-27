@@ -48,54 +48,22 @@ Location: The Sand Basin
 # Skills
 
 # Crafting
+## Pickaxes
+```
+Stone Pickaxe (5 User Power)
+250x Stone
+```
+```
+Iron Pickaxe (8 User Power)
+100x Iron Ore
+500x Stone
+```
+```
+Refined Iron Pickaxe (18 User Power)
+250x Smelted Iron
+250x Iron Ore
+500x Stone
+```
+## Potions
 
-
-
-## Crafting Ranks
-**Crafting Rank 1-3** <br
-> **[R1] Beginner Crafting** <br>
-> *these recipes unlock along with `/craft` at level 7.* <br>
-> • **Requirements:** <br>
-> Level: 7+ <br>
-
-> **[R2] Novice Crafting** <br>
-> *text* <br>
-> • **Requirements:** <br>
-> Level: 10+ <br>
-> Crafting Level: 3+ <br>
-
-> **[R3] Adept Crafting** <br>
-> *text* <br>
-> • **Requirements:** <br>
-> Level: 10+ <br>
-> Crafting Level: 6+ <br>
-
-**Crafting Ranks 4-6** <br>
-> **[R4] Intermediate Crafting** <br>
-> *text* <br>
-> • **Requirements:** <br>
-> Power: 200+ Total <br>
-> Level: 15+ <br>
-> Crafting Level: 12+ <br>
-
-> **[R5] Advanced Crafting** <br>
-> *text* <br>
-> • **Requirements:** <br>
-> Power: 375+ Total <br>
-> Level: 45+ <br>
-> Crafting Level: 20+ <br>
-
-> **[R6] Expert Crafting** <br>
-> *text* <br>
-> • **Requirements:** <br>
-> Power: 500+ Total <br>
-> Level: 75+ <br>
-> Crafting Level: 30+ <br>
-
-## Crafting Milestones
-**Milestone 1: Beginner I** <br>
-**Milestone 2: Beginner II** <br>
-**Milestone 3: Advancing I** <br>
-**Milestone 4: Advancing II** <br>
-**Milestone 5: Expert** <br>
-
+## Materials
