@@ -33,6 +33,8 @@ Location: The Meadows
 </details>
 
 ### The Sand Basin
+<details> <summary> Ores </summary>
+    
 ```
 Sand (Standard Yield: 4-33)
 Required Grade: 3
@@ -48,6 +50,8 @@ Topaz (Standard Yield: 4-33)
 Required Grade: 24.75
 Location: The Sand Basin
 ```
+
+</details>
 
 ## Locations
 
