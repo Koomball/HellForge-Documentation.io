@@ -1,6 +1,6 @@
 # Index
 - [Mining](#Mining)
- - [Ores](##Ores)
+ - [Ores](#Ores)
  - [Locations]
  - [Milestones]
 - [Skills]
