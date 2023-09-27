@@ -13,6 +13,7 @@
 ## Ores
 ### The Meadows
 <details> <summary> Ores </summary>
+    
 ```
 Dirt (Standard Yield: 8-23)
 Required Grade: 0
@@ -30,6 +31,7 @@ Location: The Meadows
 ```
 
 </details>
+
 ### The Sand Basin
 ```
 Sand (Standard Yield: 4-33)
