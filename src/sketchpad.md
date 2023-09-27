@@ -56,13 +56,15 @@ Location: The Sand Basin
  <br>
 Requirements:
  <br>
+
 > **[R2] Novice Crafting** <br>
-*text*
+*text* <br>
  <br>
 Requirements:
  <br>
+
 > **[R3] Adept Crafting** <br>
-*text*
+*text* <br>
  <br>
 Requirements:
  <br>
