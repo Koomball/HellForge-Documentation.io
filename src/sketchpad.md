@@ -1,9 +1,10 @@
 # Index
 - [Mining](#Mining)
  - [Ores](#Ores)
- - [Locations]
- - [Milestones]
-- [Skills]
+ - [Locations](#Locations)
+ - [Milestones](#Milestones)
+- [Skills](#Skills)
+- [Crafting](#Crafting)
 
 # Mining
 
@@ -34,3 +35,5 @@ Location: The Meadows
 ## Milestones
 
 # Skills
+
+# Crafting
