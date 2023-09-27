@@ -1,4 +1,4 @@
-# Mining
+# ⛏ Mining
 
 ## Ores
 **The Meadows**
@@ -43,11 +43,11 @@ Location: The Sand Basin
 
 </details>
 
-## Milestones
+# ⭐️ Milestones
 
-# Skills
+# ⚡️ Skills
 
-# Crafting
+# 🪵 Crafting
 ## Pickaxes
 ```
 Stone Pickaxe (5 User Power)
